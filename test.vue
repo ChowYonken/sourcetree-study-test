@@ -8,6 +8,9 @@
   export default {
     methods: {
       
+      func1() {
+
+      },
     }
   }
 </script>
