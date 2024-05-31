@@ -7,10 +7,15 @@
 <script>
   export default {
     methods: {
-      
       func1() {
 
       },
+      func2() {
+
+      },
+      func3() {
+        
+      }
     }
   }
 </script>
