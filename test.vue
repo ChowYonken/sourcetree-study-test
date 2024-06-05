@@ -46,6 +46,9 @@
       },
       // 合并到master后再回退版本
       backspace1() {
+
+      },
+      backspace2() {
         
       },
     }
