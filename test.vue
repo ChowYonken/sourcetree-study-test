@@ -43,7 +43,11 @@
       },
       otherFunc1() {
         
-      }
+      },
+      // 合并到master后再回退版本
+      backspace1() {
+        
+      },
     }
   }
 </script>
