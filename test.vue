@@ -37,6 +37,13 @@
       func5() {
 
       },
+      // 其他功能
+      otherFunc() {
+        
+      },
+      otherFunc1() {
+        
+      }
     }
   }
 </script>
