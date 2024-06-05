@@ -40,6 +40,9 @@
       // 其他功能
       otherFunc() {
         
+      },
+      otherFunc1() {
+        
       }
     }
   }
