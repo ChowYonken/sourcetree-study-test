@@ -37,6 +37,10 @@
       func5() {
 
       },
+      // 其他功能
+      otherFunc() {
+        
+      }
     }
   }
 </script>
