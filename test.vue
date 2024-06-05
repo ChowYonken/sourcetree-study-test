@@ -51,6 +51,9 @@
       backspace2() {
         
       },
+      backspace3() {
+        
+      }
     }
   }
 </script>
