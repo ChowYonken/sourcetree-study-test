@@ -43,6 +43,10 @@
       },
       otherFunc1() {
         
+      },
+      // 回滚到某条记录
+      reverseFunc1() {
+        
       }
     }
   }
