@@ -22,6 +22,12 @@
       func5() {
 
       },
+      other1() {
+
+      },
+      other2() {
+        
+      }
     }
   }
 </script>
