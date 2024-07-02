@@ -51,9 +51,6 @@
       backspace2() {
         
       },
-      backspace3() {
-        
-      },
       dev1func() {
         
       }
