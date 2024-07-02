@@ -57,6 +57,9 @@
       backspace4() {
         
       },
+      newfunc1() {
+        
+      }
     }
   }
 </script>
