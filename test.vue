@@ -53,6 +53,9 @@
       },
       backspace3() {
         
+      },
+      dev1func() {
+        
       }
     }
   }
