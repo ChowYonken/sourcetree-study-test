@@ -53,7 +53,10 @@
       },
       dev1func() {
         
-      }
+      },
+      backspace4() {
+        
+      },
     }
   }
 </script>
