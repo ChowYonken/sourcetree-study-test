@@ -57,6 +57,9 @@
       backspace4() {
         
       },
+      dev2func() {
+
+      }
     }
   }
 </script>
